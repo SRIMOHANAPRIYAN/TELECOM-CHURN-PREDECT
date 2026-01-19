@@ -1,6 +1,6 @@
 # Customer Retention & Churn Risk Dashboard (End-to-End)
 
-[Dashboard Preview](https://lookerstudio.google.com/reporting/947fa59c-9d6a-4c3b-82e3-5e21721b6783)
+# Playable Dashboard Link 👉  [Dashboard Preview](https://lookerstudio.google.com/reporting/947fa59c-9d6a-4c3b-82e3-5e21721b6783)
 
 # Project Overview
 **Goal:** In the telecom industry, retaining customers is cheaper than acquiring new ones. This project builds a Machine Learning solution to predict which customers are at risk of leaving ("Churn") and identifies the root causes to minimize revenue loss.
